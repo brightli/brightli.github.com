@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>BrightLi</title>
+	<link href="http://brightli.github.com/gear/atom.xml" rel="self" />
+	<link href="http://brightli.github.com/gear/" />
+	<updated>2012-11-06T13:29:04+08:00</updated>
+	<id>http://brightli.github.com/gear/</id>
+	<author>
+		<name>BrightLi</name>
+		<email>flashpf@qq.com</email>
+	</author>
+	
+	<entry>
+		<title>Gear V1.0 简介</title>
+		<link href="http://brightli.github.com/gearposts/20121105/gear1.html" />
+		<updated>2012-11-05T00:00:00+08:00</updated>
+		<id>http://brightli.github.com/gearposts/20121105/gear1.html</id>
+		<content type="html"><![CDATA[<ul>
+<li>gear.codec 文件编码解码器</li>
+<li>gear.ui UI组件</li>
+<li>gear.net 资源加载</li>
+</ul>
+
+<pre class="prettyprint">
+   import gear.core.game;  
+   public function test():void{
+     trace("hello");
+   }
+</pre>
+]]></content>
+	</entry>
+	
+	<entry>
+		<title>Gear 包简介</title>
+		<link href="http://brightli.github.com/gearposts/20121105/gear-ui.html" />
+		<updated>2012-11-05T00:00:00+08:00</updated>
+		<id>http://brightli.github.com/gearposts/20121105/gear-ui.html</id>
+		<content type="html"><![CDATA[<ul>
+<li>gear.gui.control.GButton 按钮</li>
+</ul>
+]]></content>
+	</entry>
+	
+	<entry>
+		<title>Gear 包简介</title>
+		<link href="http://brightli.github.com/gearposts/20121105/gear-package.html" />
+		<updated>2012-11-05T00:00:00+08:00</updated>
+		<id>http://brightli.github.com/gearposts/20121105/gear-package.html</id>
+		<content type="html"><![CDATA[<ul>
+<li>gear.log4a</li>
+<li>gear.net</li>
+</ul>
+]]></content>
+	</entry>
+	
+</feed>
